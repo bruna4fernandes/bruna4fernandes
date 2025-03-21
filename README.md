@@ -4,7 +4,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Sou estudante de engenharia de software do 1° período, ainda estou no ínicio de minha carreira. Programadora em processo de evolução!! 😁
-- 🖥️ I’m currently learning ...
+- 🖥️ Atualmente estou aprendendo
+- ...
   - HTML
   - CSS
   - JavaScript
@@ -32,7 +33,7 @@ Sou estudante de engenharia de software do 1° período, ainda estou no ínicio 
   <a href=https://www.instagram.com/lbrunoca?igsh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href=www.linkedin.com/in/bruna-hellen-fernandes-de-sousa-01b232302="_blank">
+  <a href=https://br.linkedin.com/in/bruna-hellen-fernandes-de-sousa-01b232302="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
